@@ -1,0 +1,1 @@
+alter table materiais modify cor varchar(50);
